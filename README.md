@@ -39,7 +39,7 @@ I’m a passionate fresh graduate with bachelor's degree in Artificial Intellige
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
 
-![Toolkit Gif](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+<!---![Toolkit Gif](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)-->
 
 ---
 
@@ -49,7 +49,7 @@ I’m a passionate fresh graduate with bachelor's degree in Artificial Intellige
 *🛣️ Keeping roads safe with real-time traffic analysis.*  
 Check it out here: [LaneGuard GitHub Repository](https://github.com/your-username/LaneGuard)
 
-![Project Gif](https://media.giphy.com/media/xT1Ra4xP8UddL9rvDi/giphy.gif)
+<!---![Project Gif](https://media.giphy.com/media/xT1Ra4xP8UddL9rvDi/giphy.gif)-->
 
 ---
 
@@ -60,4 +60,4 @@ Check it out here: [LaneGuard GitHub Repository](https://github.com/your-usernam
 
 ---
 
-![Goodbye Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+<!---![Goodbye Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)-->
