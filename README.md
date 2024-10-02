@@ -54,7 +54,7 @@ Check it out here: [LaneGuard GitHub Repository](https://github.com/your-usernam
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile/in/shahad-faiz-7b82a6219/)
+- [LinkedIn](https://www.linkedin.com/in/your-profile/in/shahadfaiz)
 - [Email](mailto:shahadfaizalo@gmail.com)
 - [Twitter](https://twitter.com/XjustShahad)
 
