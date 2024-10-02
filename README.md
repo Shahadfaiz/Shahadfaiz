@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Shahad Faiz!
 
 **Welcome to my GitHub profile!**  
-I’m a passionate software engineer, AI enthusiast, and lifelong learner focused on building innovative solutions in Traffic Management and AI.
+I’m a passionate fresh graduate with bachelor's degree in Artificial Intelligence, here where I share my proejcts and innovative solutions in Traffic Management and AI.
 
 ![Welcome Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
@@ -18,9 +18,9 @@ I’m a passionate software engineer, AI enthusiast, and lifelong learner focuse
 ---
 
 ## ⚡ Fun Facts
-- 🎮 When I'm not coding, I'm probably playing chess, or exploring new tech trends!  
+- 🎮 When I'm not coding, I'm probably reading books, or exploring new tech trends!  
 - 📖 Avid reader of sci-fi novels and machine learning research papers.  
-- 🏞️ Love nature and often go hiking to clear my mind and think of new ideas.
+- 🏞️ Love nature and often go running to clear my mind and think of new ideas.
 
 ![Fun Gif](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
@@ -54,9 +54,9 @@ Check it out here: [LaneGuard GitHub Repository](https://github.com/your-usernam
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:your-email@example.com)
-- [Twitter](https://twitter.com/your-twitter)
+- [LinkedIn](https://www.linkedin.com/in/your-profile/in/shahad-faiz-7b82a6219/)
+- [Email](mailto:shahadfaizalo@gmail.com)
+- [Twitter](https://twitter.com/XjustShahad)
 
 ---
 
