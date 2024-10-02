@@ -3,6 +3,7 @@
 **Welcome to my GitHub profile!**  
 I’m a passionate fresh graduate with bachelor's degree in Artificial Intelligence, here where I share my proejcts and innovative solutions in Traffic Management and AI.
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
 ![Welcome Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
