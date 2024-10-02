@@ -22,7 +22,7 @@ I’m a passionate fresh graduate with bachelor's degree in Artificial Intellige
 - 📖 Avid reader of sci-fi novels and machine learning research papers.  
 - 🏞️ Love nature and often go running to clear my mind and think of new ideas.
 
-![Fun Gif](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+[//]: <> ![Fun Gif](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 ---
 
