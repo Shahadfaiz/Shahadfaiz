@@ -60,4 +60,5 @@ Check it out here: [LaneGuard GitHub Repository](https://github.com/your-usernam
 
 ---
 
-<!---![Goodbye Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)-->
+![Goodbye Gif](https://media.giphy.com/media/9eM1SWnqjrc40/giphy.gif)
+
