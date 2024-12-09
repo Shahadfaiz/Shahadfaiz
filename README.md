@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shahad Faiz!
 
 **Welcome to my GitHub profile!**  
-I’m a passionate fresh graduate with bachelor's degree in Artificial Intelligence, here where I share my proejcts and innovative solutions in Traffic Management and AI.
+I’m a passionate fresh graduate with bachelor's degree in Artificial Intelligence, here where I share my projects and innovative solutions in Traffic Management and AI.
 
 ![Welcome Gif](https://media.giphy.com/media/S2IfEQqgWc0AH4r6Al/giphy.gif)
 
