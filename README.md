@@ -3,8 +3,6 @@
 **Welcome to my GitHub profile!**  
 I’m a passionate fresh graduate with bachelor's degree in Artificial Intelligence, here where I share my projects and innovative solutions in Traffic Management and AI.
 
-![Welcome Gif](https://media.giphy.com/media/S2IfEQqgWc0AH4r6Al/giphy.gif)
-
 ---
 
 ## 🚀 About Me
@@ -54,5 +52,4 @@ Check it out here: [LaneGuard GitHub Repository](https://github.com/your-usernam
 
 ---
 
-![Goodbye Gif](https://media.giphy.com/media/9eM1SWnqjrc40/giphy.gif)
 
